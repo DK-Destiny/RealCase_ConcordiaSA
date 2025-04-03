@@ -14,7 +14,7 @@ Este é um caso real da empresa que trabalho atualmente, que foi resolvido de ma
   * Comecei separando os vendedores e clientes em uma tabela, que extraí do banco de dados do nosso ERP/CRM.
   * Depois, fiz um pequeno código em Python(listaVendedoresEClientes.py) que lista os vendedores e mostra o portifólio de clientes atual.
   * Após, classifiquei os clientes inativos com base nos critérios que foram passados pelo time responsável.
-  * Por fim, fiz outro pequeno código em Python(distribuirNovosClientes.py) utilizando apenas as bibliotecas PANDA e RANDOM.
+  * Por fim, fiz outro pequeno código em Python(distribuirNovosClientes.py) utilizando apenas as bibliotecas PANDAS e RANDOM para distribuir os clientes.
 
 ### Conclusão.
 
